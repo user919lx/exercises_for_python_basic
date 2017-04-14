@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Python 特别的函数构造方法
+# Python 函数基本知识
 
 
 # 默认参数
@@ -25,8 +25,6 @@ def product(*numbers):
     for n in numbers:
         s = s * n
     return s
-
-
 print(product(1, 2, 3, 4))
 # Out
 # 24
