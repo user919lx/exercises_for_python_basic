@@ -1,4 +1,4 @@
-# Python基础学习
+# Python基础学习笔记
 
 ---
 
@@ -11,6 +11,7 @@
 - ex0_basic：基础语法
 - ex1_function：函数
 - ex2_advance：进阶知识
+- ex3_functional_programming：函数式编程
 - tricks：小技巧
 
 
